@@ -1338,7 +1338,7 @@ var SwaggerClient = module.exports = function (url, options) {
   this.authorizationScheme = null;
   this.basePath = null;
   this.debug = false;
-  this.enableCookies = false;
+  this.enableCookies = true;
   this.info = null;
   this.isBuilt = false;
   this.isValid = false;

@@ -674,7 +674,7 @@
 }
 .swagger-section .swagger-ui-wrap ul#resources {
   font-family: "Droid Sans", sans-serif;
-  font-size: 0.9em;
+  font-size: 0.6em;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource {
   border-bottom: 1px solid #dddddd;
@@ -1406,7 +1406,7 @@
   cursor: pointer;
 }
 .swagger-section #header {
-  background-color: #89bf04;
+  background-color: #9d0e00;
   padding: 9px 14px 19px 14px;
   height: 23px;
   min-width: 775px;
